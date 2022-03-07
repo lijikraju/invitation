@@ -356,7 +356,6 @@ figure {
   position: relative;
   float: left;
   width: 100%;
-  background-color: coral;
 }
 
 #fh5co-logo {
