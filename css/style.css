@@ -150,14 +150,14 @@ figure {
 .fh5co-cover,
 .fh5co-hero {
   position: relative;
-  height: 800px;
+  height: 550px;
   width: 100%;
 }
 
 @media screen and (max-width: 768px) {
   .fh5co-cover,
   .fh5co-hero {
-    height: 700px;
+    height: 300px;
   }
 }
 
@@ -349,14 +349,13 @@ figure {
   left: 0;
   width: 100%;
   z-index: 1022;
-  background: #fff;
+  background: #FFB6C1;
 }
 
 .nav-header {
   position: relative;
   float: left;
   width: 100%;
-  background-color: coral;
 }
 
 #fh5co-logo {
@@ -577,7 +576,7 @@ figure {
 }
 
 #fh5co-couple img {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
