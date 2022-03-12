@@ -88,7 +88,7 @@
 						<div class="container">
 							<div class="col-md-10 col-md-offset-1">
 								<div class="animate-box">
-									<h1style="color:red;">We Invite you to the Wedding of</h1>
+									<h1 style="color:red;">We Invite you to the Wedding of</h1>
 									<h2 style="color:red;">Jins &amp; Liji</h2>
 									<p style="color:red;"><span>04.07.2022</span></p>
 								</div>
@@ -132,10 +132,10 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center animate-box">
 					<p id="countdown">
-						<span id="days"></span>
-						<span id="hours"></span>
-						<span id="minutes"></span>
-						<span id="seconds"></span>
+						<span style="color:red;" id="days"></span>
+						<span style="color:red;" id="hours"></span>
+						<span style="color:red;" id="minutes"></span>
+						<span style="color:red;" id="seconds"></span>
 					</p>
 				</div>
 			</div>

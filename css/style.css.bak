@@ -295,7 +295,7 @@ figure {
 .sf-menu ul li:hover a,
 .sf-menu ul li.sfHover a,
 .sf-menu li.active a {
-  color: #add8e6;
+  color: #2840cc;
 }
 
 .sf-menu ul li:hover,
@@ -527,7 +527,7 @@ figure {
 
 
 #fh5co-primary-menu .fh5co-sub-menu a:hover {
-  color: #add8e6 !important;
+  color: #2840cc !important;
 }
 
 #fh5co-couple,
@@ -861,7 +861,7 @@ figure {
 }
 
 .fh5co-blog .blog-text span.comment a i {
-  color: #add8e6;
+  color: #2840cc;
   padding-left: 4px;
 }
 
@@ -904,7 +904,7 @@ figure {
 }
 
 #footer {
-  background: #add8e6;
+  background: #f795af;
   padding: 60px 0 40px;
 }
 
@@ -918,7 +918,7 @@ figure {
 }
 
 #footer p a:hover, #footer p a:active, #footer p a:focus {
-  color: rgba(255, 255, 255, 0.9) !important;
+  color: #2840cc !important;
 }
 
 #footer h2 {
