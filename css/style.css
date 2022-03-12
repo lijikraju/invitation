@@ -380,11 +380,11 @@ figure {
 }
 
 #fh5co-logo a {
-  color: #add8e6;
+  color: #2840cc;
 }
 
 #fh5co-logo a:hover, #fh5co-logo a:focus {
-  color: #add8e6 !important;
+  color: #2840cc !important;
 }
 
 #fh5co-menu-wrap {
@@ -400,7 +400,7 @@ figure {
 }
 
 #fh5co-primary-menu > li > ul li.active > a {
-  color: #add8e6 !important;
+  color: #2840cc !important;
 }
 
 #fh5co-primary-menu > li > .sf-with-ul:after {
@@ -527,7 +527,7 @@ figure {
 
 
 #fh5co-primary-menu .fh5co-sub-menu a:hover {
-  color: #add8e6 !important;
+  color: #2840cc !important;
 }
 
 #fh5co-couple,
@@ -861,7 +861,7 @@ figure {
 }
 
 .fh5co-blog .blog-text span.comment a i {
-  color: #add8e6;
+  color: #2840cc;
   padding-left: 4px;
 }
 

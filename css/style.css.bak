@@ -380,11 +380,11 @@ figure {
 }
 
 #fh5co-logo a {
-  color: #add8e6;
+  color: #2840cc;
 }
 
 #fh5co-logo a:hover, #fh5co-logo a:focus {
-  color: #add8e6 !important;
+  color: #2840cc !important;
 }
 
 #fh5co-menu-wrap {
@@ -400,7 +400,7 @@ figure {
 }
 
 #fh5co-primary-menu > li > ul li.active > a {
-  color: #add8e6 !important;
+  color: #2840cc !important;
 }
 
 #fh5co-primary-menu > li > .sf-with-ul:after {
@@ -1287,7 +1287,7 @@ figure {
 .mostly-customized-scrollbar::-webkit-scrollbar {
   width: 5px;
   height: 8px;
-  background-color: #aaa; /* or add it to the track */
+  background-color: #ffff00; /* or add it to the track */
 }
 
 /* Add a thumb */
