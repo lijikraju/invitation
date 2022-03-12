@@ -83,46 +83,44 @@
 	
 		<div class="fh5co-hero" data-section="home">
 			<div class="fh5co-overlay"></div>
-			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/couple.jpg); background-size: cover; class="responsive"">
+			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/couple.jpg); background-size: cover;" class="responsive">
 				<div class="display-t">
 					<div class="display-tc">
 						<div class="container">
-							<div class="col-md-10 col-md-offset-1">
-								<div class="animate-box">
-									<h1>Meet The Groom</h1>
-									<h2>Jins O R</h2>
-									
-								</div>
-							</div>
+									<H1>Couple</H1>								
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 		
-		<div id="fh5co-couple" class="fh5co-section-gray" style="background-image: url(images/container2cove.jpg);">
+		<div id="fh5co-couple" class="fh5co-section-gray" style="background-color:pink;">
 			<div class="container">
-				<div class="row row-bottom-padded-md animate-box">
-					<div class="col-md-6 col-md-offset-3 text-center">
-						<div class="col-md-5 col-sm-5 col-xs-5 nopadding">
-							<a href="groom.html"><img src="images/groom.jpeg" class="img-responsive" alt="groom"></a>
-							<h3>Jins</h3>
-						</div>
-						<div class="col-md-2 col-sm-2 col-xs-2 nopadding"><h2 class="amp-center"><i class="icon-heart"></i></h2></div>
-						<div class="col-md-5 col-sm-5 col-xs-5 nopadding">
-							<a href="bride.html"> <img src="images/bride.jpeg" class="img-responsive" alt="bride"></a>
-							<h3>Liji</h3>
-						</div>
-					</div>
-				</div>
-				<div class="row animate-box">
-					<div class="col-md-8 col-md-offset-2">
-						<div class="col-md-12 text-center heading-section">
-							<h2><strong>Are Getting Married</strong></h2>
-							<p><strong>On July 4, 2022 &mdash; Kottayam, Kerala</strong></p>
-						</div>
-					</div>
-				</div>
+				<p> Two rivers met last autumn,
+One aggressive, picking everything on its flow 
+Swirling, tumultuous, speedy, deep coloured.
+The other was matured, grounded, even paced, soothing its edges. 
+
+Both could meet the sea directly,
+Without changing elements they carried. 
+But, went into the intermediary lake instead.
+Lake received them with grace, to teach and to transform.  
+
+The rebel, the noisy one took more time
+She was determined to change though, yearning peace. 
+The matured one rejoiced, he would have lost lest.
+Together, one into the other, both intermixed for good.
+
+Creating progenies on the flow,
+For life till eternity to last.
+Both flow, seeking, enjoying peace in tumult,
+Imbibing the learning, discovering the new.
+
+The ocean, the destination will come..
+By then, the nectar fully must be drunk,
+Realising the purpose through the deeds,
+That the rivers must deliver……
+</p>
 			</div>
 		</div>
 
@@ -133,3 +131,4 @@
 	<!-- END fh5co-wrapper -->
 		
 </body>
+</html>
