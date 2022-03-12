@@ -525,7 +525,6 @@ figure {
   background: none;
 }
 
-
 #fh5co-primary-menu .fh5co-sub-menu a:hover {
   color: #add8e6 !important;
 }
