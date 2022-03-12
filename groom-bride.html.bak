@@ -1,14 +1,12 @@
-
 <!DOCTYPE html>
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-	<head>
+<html class="no-js">
+<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Jins Weds Liji</title>
+	<title>couple</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Marriage" />
-	<meta name="keywords" content="wedding" />
-	<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
@@ -23,7 +21,6 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 	
 	<link href="https://fonts.googleapis.com/css?family=Montez" rel="stylesheet">
@@ -41,17 +38,24 @@
 	<link rel="stylesheet" href="css/magnific-popup.css">
 	
 	<link rel="stylesheet" href="css/style.css">
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9SLHPCT1VN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());3
+  gtag('config', 'G-9SLHPCT1VN');
+</script>
+<script src="js/modernizr-2.6.2.min.js"></script
+</head>
 
 
-	<!-- Modernizr JS -->
-	<script src="js/modernizr-2.6.2.min.js"></script
-	</head>
-	<body>	
-		<div id="fh5co-wrapper">
+	<body>
+		<div id="fh5co-wrapper" ss overflow: scroll;  flex: none;>
 		<div id="fh5co-page">
 		
-
-		<header id="fh5co-header-section" class="sticky-banner">
+				<header id="fh5co-header-section" class="sticky-banner">
 			<div class="container">
 				<div class="nav-header">
 					<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle dark"><i></i></a>
@@ -65,7 +69,6 @@
 								<ul class="fh5co-sub-menu">
 									<li><a href="groom.html">Meet the Groom</a></li>
 									<li><a href="bride.html">Meet the bride</a></li>
-									<li><a href="engagement.html">Engagement</a></li>
 									<li><a href="wedding.html">Wedding</a></li>
 								</ul>
 							</li>
@@ -76,7 +79,6 @@
 				</div>
 			</div>
 		</header>
-
 
 	
 		<div class="fh5co-hero" data-section="home">
@@ -123,3 +125,11 @@
 				</div>
 			</div>
 		</div>
+
+	</div>
+	<!-- END fh5co-page -->
+
+	</div>
+	<!-- END fh5co-wrapper -->
+		
+</body>

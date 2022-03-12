@@ -1,14 +1,12 @@
-
 <!DOCTYPE html>
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-	<head>
+<html class="no-js">
+<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Jins Weds Liji</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Marriage" />
-	<meta name="keywords" content="wedding" />
-	<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
@@ -23,7 +21,6 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 	
 	<link href="https://fonts.googleapis.com/css?family=Montez" rel="stylesheet">
@@ -50,37 +47,12 @@
   gtag('js', new Date());3
   gtag('config', 'G-9SLHPCT1VN');
 </script>
+<script src="js/modernizr-2.6.2.min.js"></script
+</head>
 
-<style>
- ::-webkit-scrollbar {
-    width: 12px !important;
- }
 
- /* Track */
-::-webkit-scrollbar-track {
-   -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3) !important;
-   -webkit-border-radius: 10px !important;
-   border-radius: 10px !important;
- }
-
- /* Handle */
- ::-webkit-scrollbar-thumb {
-   -webkit-border-radius: 10px !important;
-   border-radius: 10px !important;
-   background: #ff00ff !important; 
-   -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5) !important; 
-
- }
- ::-webkit-scrollbar-thumb:window-inactive {
-   background: #ff00ff !important; 
- }
-</style>
-
-	<!-- Modernizr JS -->
-	<script src="js/modernizr-2.6.2.min.js"></script
-	</head>
 	<body>
-		<div id="fh5co-wrapper" overflow: scroll;  flex: none;>
+		<div id="fh5co-wrapper" ss overflow: scroll;  flex: none;>
 		<div id="fh5co-page">
 		
 				<header id="fh5co-header-section" class="sticky-banner">
