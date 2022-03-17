@@ -79,7 +79,7 @@
 		
 		<div class="fh5co-hero" data-section="home">
 			<div class="fh5co-overlay"></div>
-			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/bridengroom.gif); background-size: cover;" class="responsive">
+			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/bridengroom.gif); background-size: cover;" class="img-responsive">
 				<div class="display-t">
 					<div class="display-tc">
 						<div class="container">
@@ -87,7 +87,7 @@
 								<div class="animate-box">
 									<h3 style="color:red;">ജിൻസും ലിജിയും</h>
 									<h3 style="color:red;">വിവാഹിതരാകുന്നു</h3>
-									<p><span>04.07.2022</span></p>
+									<p style="color:red;"><span>04.07.2022</span></p>
 								</div>
 							</div>
 						</div>
@@ -122,7 +122,7 @@
 				</div>
 			</div>
 		</div>
-		<div id="fh5co-countdown" style="background-image:url(images/countdown.gif);" data-stellar-background-ratio="0.5">
+		<div id="fh5co-countdown" style="background-image:url(images/countdown.gif); background-size: cover;" class="img-responsive" data-stellar-background-ratio="0.5">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center animate-box">
 				<h2>വിവാഹത്തിന് ഇനി </h2>
