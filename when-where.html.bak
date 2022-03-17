@@ -84,7 +84,7 @@
 	
 		<div class="fh5co-hero" data-section="home">
 			<div class="fh5co-overlay"></div>
-			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/cover_bg_1.jpg); background-size: cover;" class="img-responsive">
+			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/cover_bg.jpg); background-size: cover;" class="img-responsive">
 				<div class="display-t">
 					<div class="display-tc">
 						<div class="container">
@@ -121,7 +121,7 @@
 					</div>
 					<div class="col-md-6 text-center animate-box">
 						<div class="wedding-events">
-							<div class="ceremony-bg" style="background-image: url(images/wed-party.jpeg);background-size: cover;" class="img-responsive"></div>
+							<div class="ceremony-bg" style="background-image: url(images/cover_bg.jpg); background-size: cover;" class="img-responsive"></div>
 							<div class="desc">
 								<h3>Wedding Party</h3>
 								<p><strong>Monday, July 04, 2022, 01.00 PM - 3.00PM @ Kottayam</strong></p>
