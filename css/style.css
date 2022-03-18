@@ -16,7 +16,7 @@ body {
   font-family: "Open Sans", Arial, sans-serif;
   line-height: 1.6;
   font-size: 16px;
-  background: #fff;
+  background: #fa76c9;
   color: #c71585;
   font-weight: 300;
   overflow-x: hidden;
@@ -349,7 +349,7 @@ figure {
   left: 0;
   width: 100%;
   z-index: 1022;
-  background: #FFB6C1;
+  background: #f795af;
 }
 
 .nav-header {
@@ -557,7 +557,7 @@ figure {
 }
 
 .fh5co-section-gray {
-  background: #F6FAF7;
+  background: #f5a2e9;
 }
 
 .heading-section {
@@ -699,7 +699,7 @@ figure {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.5);
+  background: #dc7892;
 }
 
 #fh5co-started .form-control {

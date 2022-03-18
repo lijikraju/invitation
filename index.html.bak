@@ -104,8 +104,8 @@
 
 		<!-- end:header-top -->
 		
-		<div id="fh5co-couple" class="fh5co-section-gray">
-			<div class="container" style="background-colour:#DFD89A;">
+		<div id="fh5co-couple" class="fh5co-section-gray" style="background-colour:#DFD89A;">
+			<div class="container">
 				<div class="row row-bottom-padded-md animate-box">
 					<div class="col-md-6 col-md-offset-3 text-center">
 						<div class="col-md-5 col-sm-5 col-xs-5 nopadding">
@@ -180,7 +180,8 @@
 			<div id="footer">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-12 text-center">							
+						<div class="col-md-12 text-center">
+							
 						</div>
 						<div class="col-md-6 col-md-offset-3 text-center">
 						<h3><strong>Watch the Wedding live on</strong></h3>
