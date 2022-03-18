@@ -149,12 +149,12 @@
 			<div class="container">
 				<div class="row animate-box">
 					<div class="col-md-8 col-md-offset-2 text-center heading-section">
-						<h2 style="color: #d11c18e6;">Are You Attending?</h2>
+						<h2 style="color: white;">Are You Attending?</h2>
 					</div>
 				</div>
 				<div class="row animate-box">
 					<div class="col-md-10 col-md-offset-1">
-						<form class="form-inline">
+						<form class="form-inline" action="mailto:lijikraju@gmail.com" method="post" enctype="text/plain">
 							<div class="col-md-4 col-sm-4">
 								<div class="form-group">
 									<label for="name" class="sr-only">Name</label>
@@ -169,6 +169,7 @@
 							</div>
 							<div class="col-md-4 col-sm-4">
 								<button type="submit" class="btn btn-primary btn-block">I am Attending</button>
+								<button type="reset" class="btn btn-primary btn-block">I am Attending</button>
 							</div>
 						</form>
 					</div>
