@@ -155,7 +155,7 @@
 				</div>
 				<div class="row animate-box">
 					<div class="col-md-10 col-md-offset-1">
-					<form class="form-inline" action="mailto:lijikraju@gmail.com" method="post" enctype="text/plain">
+					<!--<form class="form-inline" action="mailto:lijikraju@gmail.com" method="post" enctype="text/plain">
 							<div class="col-md-4 col-sm-4">
 								<div class="form-group">
 									<label for="name" class="sr-only">Name</label>
@@ -172,7 +172,9 @@
 								 <input type = "button" class="btn btn-primary btn-block" value = "I will be Attending" onclick = "fun();" />
 								<button type="reset" class="btn btn-primary btn-block">Reset</button>
 							</div>
-						</form>
+						</form>-->
+						
+						<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScJIwPzOBOdP5fzC-PFrtvp3XHkBfgJvf_4ZTSZ2XLIf13vkg/viewform?embedded=true" width="640" height="820" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 					</div>
 				</div>
