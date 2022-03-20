@@ -155,7 +155,7 @@
 				</div>
 				<div class="row animate-box">
 					<div class="col-md-10 col-md-offset-1">
-						<form class="form-inline" action="mailto:lijikraju@gmail.com" method="post" enctype="text/plain">
+					<form class="form-inline" action="mailto:lijikraju@gmail.com" method="post" enctype="text/plain">
 							<div class="col-md-4 col-sm-4">
 								<div class="form-group">
 									<label for="name" class="sr-only">Name</label>
@@ -173,6 +173,7 @@
 								<button type="reset" class="btn btn-primary btn-block">Reset</button>
 							</div>
 						</form>
+
 					</div>
 				</div>
 			</div>
