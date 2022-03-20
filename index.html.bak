@@ -245,13 +245,21 @@
             function fun() {
 				
 				var name = document.getElementById("name").value;
-				var email = document.getElementById("email").value;	
+				var email = document.getElementById("email").value;
+				
 
-					if(name == null){
+					if(name.length <= 0){
                alert("Please enter name and email");
 			   }
 			   else{
-			   alert("Thank you, " +name+ " for the confirmation. We are looking forward to meet you on our D-day..!!!");}
+			   alert("Thank you, " +name+ " for the confirmation. We are looking forward to meet you on our D-day..!!!");
+			   var link = "mailto:lijikraju@example.com"
+             + "?cc=raju.jins.@example.com"
+             + "&subject=" + encodeURIComponent("This is my subject");
+    
+    window.location.href = link;
+			   
+			   }
             }
       </script>
 
