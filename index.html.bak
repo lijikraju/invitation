@@ -82,7 +82,7 @@
 	
 <div class="fh5co-hero" data-section="home">
 <div class="fh5co-overlay"></div>
-			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/bridengroom.gif); background-size: cover;" class="img-responsive">
+			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/bridengroom.gif);" class="img-responsive">
 				<div class="display-t">
 					<div class="display-tc">
 						<div class="container">
@@ -135,10 +135,10 @@
 				<div class="col-md-8 col-md-offset-2 text-center animate-box">
 					<p id="countdown">
 					<span style="color:blue;"><strong>Wedding will be in</strong></span></br>
-						<span style="color:#212225e6;" id="days"></span>
-						<span style="color:#212225e6;" id="hours"></span>
-						<span style="color:#212225e6;" id="minutes"></span>
-						<span style="color:#212225e6;" id="seconds"></span>
+						<span style="color:blue;" id="days"></span>
+						<span style="color:blue;" id="hours"></span>
+						<span style="color:blue;" id="minutes"></span>
+						<span style="color:blue;" id="seconds"></span>
 					</p>
 				</div>
 			</div>
