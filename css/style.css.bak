@@ -16,7 +16,7 @@ body {
   font-family: "Open Sans", Arial, sans-serif;
   line-height: 1.6;
   font-size: 16px;
-  background: #fff;
+  background: #fa76c9;
   color: #c71585;
   font-weight: 300;
   overflow-x: hidden;
