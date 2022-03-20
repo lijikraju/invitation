@@ -203,14 +203,6 @@
 	}, 1000);
 </script>
 
- <script type = "text/javascript">
-            function fun() {
-
-
-               alert ("Thank you for the confirmation. We are looking forward to receive you..!!!");
-            }
-      </script>
-
 	</body>
 </html>
 
