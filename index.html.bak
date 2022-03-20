@@ -243,9 +243,15 @@
 
  <script type = "text/javascript">
             function fun() {
+				
+				var name = document.getElementById("name").value;
+				var email = document.getElementById("email").value;	
 
-
-               alert ("Thank you for the confirmation. We are looking forward to see you..!!!");
+					if(name == null){
+               alert("Please enter name and email");
+			   }
+			   else{
+			   alert("Thank you, " +name+ " for the confirmation. We are looking forward to meet you on our D-day..!!!");}
             }
       </script>
 
