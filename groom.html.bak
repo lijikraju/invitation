@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>couple</title>
+	<title>groom</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Marriage" />
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
@@ -69,7 +69,8 @@
 								<ul class="fh5co-sub-menu">
 									<li><a href="groom.html">Meet the Groom</a></li>
 									<li><a href="bride.html">Meet the bride</a></li>
-									</ul>
+									
+								</ul>
 							</li>
 							<li><a href="when-where.html">When &amp; Where</a></li>
 							<li><a href="gallery.html">Gallery</a></li>
@@ -79,20 +80,17 @@
 				</div>
 			</div>
 		</header>
-
-
-
 	
 <div class="fh5co-hero" data-section="home">
 <div class="fh5co-overlay"></div>
-			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/bride-cvr.jpeg); background-size: cover; background-position: 200px -51px;" class="responsive">
+			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/groom-cvr.jpeg); background-size: cover; background-position: 150px -51px;" class="img-responsive">
 				<div class="display-t">
 					<div class="display-tc">
 						<div class="container">
 							<div class="col-md-10 col-md-offset-1">
 								<div class="animate-box">
-									<h1>Meet The Bride</h1>
-									<h2>Liji Raju</h2>									
+									<h1>Meet The Groom</h1>
+									<h2>Jins Varghese</h2>									
 								</div>
 								<img alt="Arrow Down Icon" src="https://raw.githubusercontent.com/solodev/scroll-down-anchor/master/images/arrow-down-1.png">
 							</div>
@@ -104,23 +102,23 @@
 
 
 
-<div id="fh5co-groom-bride" style="background-color: pink;">
+<div id="fh5co-groom-bride" style="background-color:pink;">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
-						<h2>Bride</h2>
+						<h2>Groom</h2>
 					</div>
 				</div>
 				<div class="row padding">
 					<div class="couple-wrap">
 						<div class="col-md-6 nopadding animate-box">
-							<img src="images/bride.jpeg" class="img-responsive" alt="Liji">
+							<img src="images/groom.jpeg" class="img-responsive" alt="Jins">
 						</div>
 						<div class="col-md-6 nopadding animate-box">
-								<div class="couple-desc" style="background-color: pink;">
-								<h3 style="color:white;">Liji Raju</h3>
-								<h3>Liji was born in Vazhoor as the daughter of Mr. K M Raju and Mrs. Saly Raju. After completing the education in Kerala, she is now working in Pune.
-								She is fun-loving. She loves spending her day curled up with a good book and a cup of tea.</h3>
+							<div class="couple-desc" style="background-color: pink;">
+								<h3 style="color:white;">Jins Varghese</h3>
+								<h3>Jins was born in Erumely as the son of Mr. Raju O D and Mrs. Susan Raju. After completing the education in Kerala and Tamil Nadu, he is now working in Qatar.
+								He is compassionate and empathetic. His biggest passion is cars and he love pets.</h3>
 								
 							</div>
 						</div>
@@ -128,6 +126,7 @@
 				</div>
 			</div>
 		</div>
+
 
 
 
@@ -150,7 +149,8 @@
 				</div>
 			</div>
 		</footer> 
-		
+	
+	
 
 	</div>
 	<!-- END fh5co-page -->
