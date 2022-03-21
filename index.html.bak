@@ -135,7 +135,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center animate-box">
 					<p id="countdown">
-					<span><strong>CountDown</strong></span></br>
+					<span ><strong>CountDown</strong></span></br>
 						<span  id="days"></span>
 						<span  id="hours"></span>
 						<span  id="minutes"></span>
