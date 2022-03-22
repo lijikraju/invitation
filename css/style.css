@@ -16,7 +16,7 @@ body {
   font-family: "Open Sans", Arial, sans-serif;
   line-height: 1.6;
   font-size: 16px;
-  background: #fa76c9;
+  background: grey;
   color: white;
   font-weight: 300;
   overflow-x: hidden;
@@ -349,7 +349,7 @@ figure {
   left: 0;
   width: 100%;
   z-index: 1022;
-  background: #f795af;
+  background: #c1a4b3;
 }
 
 .nav-header {
@@ -557,7 +557,7 @@ figure {
 }
 
 .fh5co-section-gray {
-  background: #f5a2e9;
+  background: grey;
 }
 
 .heading-section {
@@ -904,7 +904,7 @@ figure {
 }
 
 #footer {
-  background: #f795af;
+  background: #c1a4b3;
   padding: 60px 0 40px;
 }
 
