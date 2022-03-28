@@ -59,11 +59,8 @@
 			<div class="container">
 				<div class="nav-header">
 					<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle dark"><i></i></a>
-					<h1 id="fh5co-logo"><a href="index.html">Home</a></h1>
-					<!-- START #fh5co-menu-wrap -->
 					<nav id="fh5co-menu-wrap" role="navigation">
 						<ul class="sf-menu" id="fh5co-primary-menu">
-							<li class="active"><a href="malayalam.html" >മലയാളം</a></li>
 							<li>
 								<a href="groom-bride.html" class="fh5co-sub-ddown">Groom &amp; Bride</a>
 								<ul class="fh5co-sub-menu">
@@ -76,6 +73,9 @@
 							<li><a href="wedding.html">Wedding</a></li>
 						</ul>
 					</nav>
+					<h1 id="fh5co-logo"><a href="malayalam.html">മലയാളം</a></h1>
+					<!-- START #fh5co-menu-wrap -->
+					
 				</div>
 			</div>
 		</header>
@@ -85,7 +85,7 @@
 			<div class="fh5co-cover text-center" data-stellar-background-ratio="0.5" style="background-image: url(images/bridengroom.gif); background-size: cover;     background-position: 100px -51px;" class="img-responsive">
 				<div class="display-t">
 					<div class="display-tc">
-						<div class="container">
+						<div><a href="when-where.html" class="container">
 							<div class="col-md-10 col-md-offset-1">
 								<div class="animate-box">
 									<h1 style="color:white;">We request the honor of your presence at the marriage of</h1>
@@ -94,7 +94,7 @@
 									<p><span>04.07.2022</span></p>
 								</div>
 							</div>
-						</div>
+						</div></a>
 						<img alt="Arrow Down Icon" src="https://raw.githubusercontent.com/solodev/scroll-down-anchor/master/images/arrow-down-1.png">
 					</div>
 				</div>
@@ -111,17 +111,17 @@
 					<div class="col-md-6 col-md-offset-3 text-center">
 						<div class="col-md-5 col-sm-5 col-xs-5 nopadding">
 							<a href="groom.html"><img src="images/groom.jpeg" class="img-responsive" alt="groom"></a>
-							<h3>Jins</h3>
+							<h3><a href="groom.html"> Jins</h3></a>
 						</div>
 						<div class="col-md-2 col-sm-2 col-xs-2 nopadding"><h2 class="amp-center"><i class="icon-heart"></i></h2></div>
 						<div class="col-md-5 col-sm-5 col-xs-5 nopadding">
 							<a href="bride.html"> <img src="images/bride.jpeg" class="img-responsive" alt="bride"></a>
-							<h3>Liji</h3>
+							<h3><a href="bride.html">Liji</h3></a>
 						</div>
 					</div>
 				</div>
 				<div class="row animate-box">
-					<div class="col-md-8 col-md-offset-2">
+					<div><a href="when-where.html" class="col-md-8 col-md-offset-2">
 						<div class="col-md-12 text-center heading-section">
 							<h2><strong>Are Getting Married</strong></h2>
 							<p><strong>On July 4, 2022 &mdash; Kottayam, Kerala</strong></p>
@@ -131,7 +131,7 @@
 				</div>
 			</div>
 		</div>
-		<div id="fh5co-countdown" style="background:grey;" data-stellar-background-ratio="0.5">
+		<div id="fh5co-countdown" style="background:#907f7f;" data-stellar-background-ratio="0.5">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center animate-box">
 					<p id="countdown">
