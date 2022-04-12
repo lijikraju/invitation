@@ -349,7 +349,7 @@ figure {
   left: 0;
   width: 100%;
   z-index: 1022;
-  background: #c1a4b3;
+  background: #cc97b3;
 }
 
 .nav-header {
