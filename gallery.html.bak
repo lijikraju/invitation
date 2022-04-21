@@ -41,9 +41,6 @@
 	
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9SLHPCT1VN"></script>
-<script>if(/https/.test(window.location.protocol)){
-    window.location.href = window.location.href.replace('http:', 'https:');    
-}</script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
